@@ -20,4 +20,3 @@ b) Functionalities:
 9. Watch History
 10. Friend's Favorites
 
-P.S I apologize for the quality of the video. Had to adhere to the size limitations of GitHub, but you'll get the gist :)
